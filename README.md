@@ -1,1 +1,1 @@
-# Time-Series-using ARIMA and Seasonal ARIMA
+# Time Series using ARIMA and Seasonal ARIMA
